@@ -1,40 +1,41 @@
-name,positionName,Google Title,Region,Team,Notes,Reports to (Name),Activation (Counts towards capacity),Sitting,Reports To (Title),id,parentid,imageUrl
-Jennifer Fey,Senior Vice President,"SVP, Media",NA,,Legacy Team,Amy Michael,No,No,Chief Revenue Officer,O-101,,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Carlos Navarro,"Vice President, Digital Media","VP, Media",NA,Off Net,Legacy Team,Jennifer Fey,No,Yes,"Sr. Vice President, Digital Media",O-201,O-101,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
-Ashley Wandishin,"Director, Growth","Director, Digital Marketing",NA,Off Net,Legacy Team,Carlos Navarro,No,Yes,"Vice President, Digital Media",O-301,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
-Katie Kester,"Associate Director, Growth","Associate Director, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,No,Yes,"Director, Growth",O-401,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Planned Hire 1,"Associate Director, Growth","Associate Director, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,No,No,"Director, Growth",O-402,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Ashley Bailey,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-403,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Priyanka Dhawan,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-404,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Neha Sharma,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-405,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Evan Chapman,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-406,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Michelle Levine,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-407,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Nicholas Mar,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-408,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Danielle Woodhead,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,No,"Director, Growth",O-409,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Charlene Henry,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-410,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Adrian Vargas,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-411,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Jonathan Oei,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-412,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Paul Kahng,"Associate Director, Analytics","Associate Director, Analytics",NA,Off Net,Legacy Team,Carlos Navarro,No,Yes,"Vice President, Digital Media",O-302,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Abdul Sharif,"Associate Director, Media Operations","Associate Director, Media Strategy",NA,Off Net,Legacy Team,Carlos Navarro,No,Yes,"Vice President, Digital Media",O-303,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Ashley Cherry,Senior Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,Yes,Yes,"Director, Growth",O-413,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Daniel Delgado,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,Yes,Yes,"Director, Growth",O-414,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Dave Liston,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,Yes,Yes,"Director, Growth",O-415,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
-Akshata Kulkarni,Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,Yes,Yes,"Director, Growth",O-416,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
-Sissy Paulino,Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,Off Net,2022 Hire,Ashley Wandishin,Yes,Yes,"Director, Growth",O-417,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Shafeeq Rahaman,Sr. Analyst,"Sr. Manager, Analytics",NA,Off Net,Legacy Team,Paul Kahng,No,Yes,"Associate Director, Analytics",O-418,O-302,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Yashraj Swarnkar,Sr. Analyst,"Sr. Manager, Analytics",NA,Off Net,2022 Hire,Paul Kahng,No,No,"Associate Director, Analytics",O-419,O-302,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Hannah Hon,Sr. Analyst,"Sr. Manager, Analytics",NA,Off Net,2022 Hire,Paul Kahng,No,No,"Associate Director, Analytics",O-420,O-302,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Kevin Chen,"Sr. Manager, Media Operations","Sr. Manager, Media Strategy",NA,Off Net,2022 Hire,Abdul Sharif,No,Yes,"Associate Director, Media Operations",O-421,O-303,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Henry Cardenas,"Vice President, Digital Media","VP, Media",NA,House Ads,2022 Hire,Jennifer Fey,No,Yes,"Sr. Vice President, Digital Media",O-202,O-101,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Nathan White,"Associate Director, Growth","Associate Director, Digital Marketing",NA,House Ads,2022 Hire,Henry Cardenas,No,Yes,"Vice President, Digital Media",O-304,O-202,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Grace Rountry,Senior Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,House Ads,2022 Hire,Nathan White,Yes,Yes,"Associate Director, Growth",O-422,O-304,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Lucas Chen,Senior Digital Marketing Manager II,"Sr. Manager, Digital Marketing",NA,House Ads,Legacy Team,Nathan White,Yes,Yes,"Associate Director, Growth",O-423,O-304,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Carolina Vargas,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",LATAM,Off Net,Legacy Team,Ashley Wandishin,Yes,Yes,"Director, Growth",O-424,O-301,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Santiago Canal,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",LATAM,House Ads,2022 Hire,Nathan White,Yes,Yes,"Associate Director, Growth",O-425,O-304,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Josh Lopez,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",LATAM,House Ads,2022 Hire,Nathan White,Yes,Yes,"Associate Director, Growth",O-426,O-304,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Adel Battikh,"Associate Director, Growth","Associate Director, Digital Marketing",EMEA,Off Net,Legacy Team,Jennifer Fey,Yes,Yes,"Director, Media Strategy",O-305,O-101,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Planned Hire (Bindhya potentially),Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",EMEA,Off Net,2022 Hire,Adel Battikh,Yes,No,"Associate Director, Growth",O-427,O-305,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Ian Graydon,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",EMEA,House Ads,2022 Hire,Adel Battikh,Yes,Yes,"Associate Director, Growth",O-428,O-305,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Planned Hire 2,Sr. Digital Marketing Manager II,"Sr. Manager, Digital Marketing",APAC,Off Net,2022 Hire,Carlos Navarro,Yes,No,"Vice President, Digital Media",O-306,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Planned Hire 3,"Associate Director, Growth","Associate Director, Digital Marketing",APAC,Off Net,2022 Hire,Carlos Navarro,Yes,No,"Vice President, Digital Media",O-307,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
-Akio Takahashi,Sr. Digital Marketing Manager I,"Sr. Manager, Digital Marketing",APAC,House Ads,2022 Hire,Henry Cardenas,Yes,Yes,"Vice President, Digital Media",O-429,O-202,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
+name	imageUrl	positionName	id	parentId
+Jennifer Fey	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Senior Vice President	O-101	
+Carlos Navarro	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg	Vice President, Digital Media	O-201	O-101
+Ashley Wandishin	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg	Director, Growth	O-301	O-201
+Katie Kester	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Growth	O-401	O-301
+Planned Hire 1	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Growth	O-402	O-301
+Ashley Bailey	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-403	O-301
+Priyanka Dhawan	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-404	O-301
+Neha Sharma	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-405	O-301
+Evan Chapman	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-406	O-301
+Michelle Levine	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-407	O-301
+Nicholas Mar	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-408	O-301
+Danielle Woodhead	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-409	O-301
+Charlene Henry	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-410	O-301
+Adrian Vargas	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-411	O-301
+Jonathan Oei	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-412	O-301
+Paul Kahng	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Analytics	O-302	O-201
+Abdul Sharif	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Media Operations	O-303	O-201
+Ashley Cherry	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Senior Digital Marketing Manager I	O-413	O-301
+Daniel Delgado	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-414	O-301
+Dave Liston	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-415	O-301
+Akshata Kulkarni	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Digital Marketing Manager II	O-416	O-301
+Sissy Paulino	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Digital Marketing Manager II	O-417	O-301
+Shafeeq Rahaman	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Analyst	O-418	O-302
+Yashraj Swarnkar	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Analyst	O-419	O-302
+Hannah Hon	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Analyst	O-420	O-302
+Kevin Chen	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Manager, Media Operations	O-421	O-303
+Henry Cardenas	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Vice President, Digital Media	O-202	O-101
+Nathan White	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Growth	O-304	O-202
+Grace Rountry	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Senior Digital Marketing Manager II	O-422	O-304
+Lucas Chen	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Senior Digital Marketing Manager II	O-423	O-304
+Carolina Vargas	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-424	O-301
+Santiago Canal	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-425	O-304
+Jo Cana	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Director, Growth	O-102	
+Josh Lopez	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-426	O-304
+Adel Battikh	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Growth	O-305	O-101
+Planned Hire (Bindhya potentially)	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-427	O-305
+Ian Graydon	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-428	O-305
+Planned Hire 2	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager II	O-306	O-201
+Planned Hire 3	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Associate Director, Growth	O-307	O-201
+Akio Takahashi	https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg	Sr. Digital Marketing Manager I	O-429	O-202
