@@ -1,4 +1,4 @@
-Name,MMTitle,Google Title,Region,Team,Notes,Reports to (Name),Activation (Counts towards capacity),Sitting,Reports To (Title),id,parentid,imageUrl
+name,positionName,Google Title,Region,Team,Notes,Reports to (Name),Activation (Counts towards capacity),Sitting,Reports To (Title),id,parentid,imageUrl
 Jennifer Fey,Senior Vice President,"SVP, Media",NA,,Legacy Team,Amy Michael,No,No,Chief Revenue Officer,O-101,,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
 Carlos Navarro,"Vice President, Digital Media","VP, Media",NA,Off Net,Legacy Team,Jennifer Fey,No,Yes,"Sr. Vice President, Digital Media",O-201,O-101,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
 Ashley Wandishin,"Director, Growth","Director, Digital Marketing",NA,Off Net,Legacy Team,Carlos Navarro,No,Yes,"Vice President, Digital Media",O-301,O-201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
