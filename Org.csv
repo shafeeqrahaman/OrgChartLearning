@@ -1,7 +1,7 @@
 name,imageUrl,positionName,id,parentId
 Ian Devling,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Chief Executive Officer,O-6066,
 Davolio Nancy,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,CTO,O-6067,O-6066
-Leverling Janet,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,CTO,O-6068,O-6066
+Leverling Janet,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,CFO,O-6068,O-6066
 Leverling Janet,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,CTO,O-6069,O-6066
 Leverling Janet,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,CTO,O-6070,O-6066
 Leverling Janet,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,CTO,O-6071,O-6067
