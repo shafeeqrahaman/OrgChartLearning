@@ -1,4 +1,4 @@
-Name,Media.Monks Title,Google Title,Region,Team,Notes,Reports to (Name),Activation (Counts towards capacity),Sitting,Reports To (Title),id,parentid,imageUrl
+Name,positionName,Google Title,Region,Team,Notes,Reports to (Name),Activation (Counts towards capacity),Sitting,Reports To (Title),id,parentid,imageUrl
 Jennifer Fey,Senior Vice President,"SVP, Media",NA,,Legacy Team,Amy Michael,No,No,Chief Revenue Officer,101,,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg
 Carlos Navarro,"Vice President, Digital Media","VP, Media",NA,Off Net,Legacy Team,Jennifer Fey,No,Yes,"Sr. Vice President, Digital Media",201,101,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
 Ashley Wandishin,"Director, Growth","Director, Digital Marketing",NA,Off Net,Legacy Team,Carlos Navarro,No,Yes,"Vice President, Digital Media",301,201,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg
