@@ -1,7 +1,7 @@
 name,imageUrl,positionName,region,id,parentId
 Jennifer Fey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Vice President,NA,O-101,
 Carlos Navarro,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carlos.png,"Vice President, Digital Media",NA,O-201,O-101
-Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,"Director, Growth",NA,O-301,O-201
+Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyW.png,"Director, Growth",NA,O-301,O-201
 Katie Kester,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",NA,O-401,O-301
 Planned Hire 1,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",NA,O-402,O-301
 Ashley Bailey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager II,NA,O-403,O-301
