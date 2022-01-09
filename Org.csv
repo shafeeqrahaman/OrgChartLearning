@@ -1,4 +1,4 @@
-name,imageUrl,positionName,region,id,parentid
+name,imageUrl,positionName,region,id,parentId
 Jennifer Fey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Vice President,NA,O-101,
 Carlos Navarro,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,"Vice President, Digital Media",NA,O-201,O-101
 Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,"Director, Growth",NA,O-301,O-201
@@ -18,8 +18,8 @@ Paul Kahng,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/mai
 Abdul Sharif,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Operations",NA,O-303,O-201
 Ashley Cherry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Digital Marketing Manager I,NA,O-413,O-301
 Daniel Delgado,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,NA,O-414,O-301
-Dave Liston,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,Sr. Digital Marketing Manager I,NA,O-415,O-301
-Akshata Kulkarni,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,Digital Marketing Manager II,NA,O-416,O-301
+Dave Liston,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,NA,O-415,O-301
+Akshata Kulkarni,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Digital Marketing Manager II,NA,O-416,O-301
 Sissy Paulino,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Digital Marketing Manager II,NA,O-417,O-301
 Shafeeq Rahaman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Analyst,NA,O-418,O-302
 Yashraj Swarnkar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Analyst,NA,O-419,O-302
